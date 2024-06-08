@@ -1,4 +1,4 @@
-# 📈 Time Series Analysis of Walmart Stock 📊
+# 📈 Walmart Stock Price Prediction 📊
 
 ## Introduction
 Welcome to the rollercoaster ride of Walmart stock prices! 🎢 This project dives deep into the world of stock price movements, forecasting, and data wizardry. Buckle up as we journey through data preparation, decomposition, stationarity testing, and the ultimate showdown of forecasting models.
